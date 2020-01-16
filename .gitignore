@@ -1,0 +1,4 @@
+# ignore all exe
+*.exe
+# ignore all object file
+*.o
